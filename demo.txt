@@ -1,0 +1,40 @@
+Les compétences IT les plus recherchées au Canada incluent:
+
+    1. Développement de logiciels, notamment en utilisant des langages tels que Python, Java et C++
+    2. Analyse de données et sciences des données, utilisant des outils tels que R et SAS
+    3. Cloud computing, en utilisant des plateformes telles que AWS, Azure et Google Cloud
+    4. Cyber sécurité pour protéger les données et les systèmes informatiques des entreprises
+    5. Intelligence artificielle et apprentissage automatique pour l'analyse de données et la prise de décision
+    6. Connaissance des réseaux et des systèmes pour gérer les infrastructures informatiques.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Les compétences IT les plus recherchées aux États-Unis incluent:
+
+    1. Développement de logiciels, notamment en utilisant des langages tels que Python, Java, C# et JavaScript
+    2. Cloud computing, en utilisant des plateformes telles que AWS, Azure et Google Cloud
+    3. Cyber sécurité pour protéger les données et les systèmes informatiques des entreprises
+    4. Intelligence artificielle et apprentissage automatique pour l'analyse de données et la prise de décision
+    5. Connaissance des réseaux et des systèmes pour gérer les infrastructures informatiques
+    6. Analyse de données et sciences des données, utilisant des outils tels que R et SAS
+    7. Développement de logiciel mobile pour les plateformes iOS et Android
+    8. Connaissance de la blockchain et de la crypto-monnaie pour les applications financières.
+
+-------------------------------------------------------------------------------------------------------------------------------
+Voici quelques conseils pour relancer sa carrière d'informaticien après une pause de 10 ans :
+
+    1. Mettre à jour ses compétences : Il est important de se tenir informé des dernières technologies et tendances dans le domaine de l'informatique, 
+    pour cela il peut être utile de suivre des formations en ligne, des cours de perfectionnement ou de participer à des communautés en ligne pour rester informé.
+
+    2. Faire du bénévolat ou un stage : Le bénévolat ou les stages peuvent vous permettre de mettre en pratique vos compétences et de vous familiariser avec les nouvelles technologies. 
+    Cela peut également vous donner une expérience professionnelle récente à inclure dans votre CV.
+
+    3. Networking : Le réseautage est un outil clé pour relancer sa carrière. Il peut être utile de rencontrer des personnes dans le domaine de l'informatique et de discuter de leurs expériences professionnelles.
+    Les réseaux professionnels en ligne tels que LinkedIn peuvent également être un moyen efficace de se connecter avec d'autres professionnels de l'informatique.
+
+    4. Adaptez votre CV et votre lettre de motivation: Il est important d'adapter votre CV et votre lettre de motivation en fonction des emplois pour lesquels vous postulez.
+   Il peut être utile de mettre en avant vos compétences et vos expériences les plus récentes, et de décrire comment elles sont pertinents pour le poste visé.
+
+    5. Considérez la possibilité de changer de domaine : Si vous avez des compétences transférables, envisagez de changer de domaine et d'appliquer vos compétences à un nouveau secteur, 
+   tels que le développement de jeux vidéo ou la robotique.
+
+Il est important de noter que le marché du travail est très concurrentiel et qu'il peut prendre du temps pour retrouver un emploi.
